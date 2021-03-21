@@ -1,0 +1,10 @@
+.button {
+  background-color: darkcyan;
+  padding: 5px 20px;
+  color: white;
+  font-size: 15px; }
+
+.button-added-text {
+  color: blue;
+  font-weight: bold; }
+

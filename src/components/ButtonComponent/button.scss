@@ -1,0 +1,16 @@
+$background-color: darkcyan;
+$font-size: 15px;
+$font-color: white;
+$blue-color: blue;
+
+.button {
+    background-color: $background-color;
+    padding: 5px 20px;
+    color: $font-color;
+    font-size: $font-size;
+}
+
+.button-added-text {
+    color: $blue-color;
+    font-weight: bold;
+}
